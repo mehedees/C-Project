@@ -1,2 +1,1 @@
-# C-Project
-AIUB Summer 15-16
+Manage Bookings, Room Service, Bill Generation, Check In/Out, Accounting and more.
